@@ -1,4 +1,4 @@
-name: Windows - LiteManager
+name: SSH Segfault
 
 on:
   workflow_dispatch:
